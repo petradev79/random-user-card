@@ -1,5 +1,5 @@
 # card-flipper
-Vue project for random user card
+Click on 'get random user' button to get random results from 'randomuser.me/api'.
 
 ## Project setup
 ```
