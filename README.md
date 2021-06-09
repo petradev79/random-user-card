@@ -1,4 +1,5 @@
 # card-flipper
+Vue project for random user card
 
 ## Project setup
 ```
