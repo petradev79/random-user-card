@@ -1,5 +1,5 @@
 # card-flipper
-Click on 'get random user' button to get random results from 'randomuser.me/api'.
+Click on 'get random user' button to get random results from 'randomuser.me/api'.<br>
 Differences in color and background color depends on user gender.
 
 
